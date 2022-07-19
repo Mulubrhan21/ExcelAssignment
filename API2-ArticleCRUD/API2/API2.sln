@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API2", "API2.csproj", "{ACF958AA-FD9F-4463-94F5-F3F56FA9480C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HagosConsole", "..\HagosConsole\HagosConsole.csproj", "{56749086-C496-4C81-8834-B89151BD0663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF958AA-FD9F-4463-94F5-F3F56FA9480C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF958AA-FD9F-4463-94F5-F3F56FA9480C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF958AA-FD9F-4463-94F5-F3F56FA9480C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF958AA-FD9F-4463-94F5-F3F56FA9480C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56749086-C496-4C81-8834-B89151BD0663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56749086-C496-4C81-8834-B89151BD0663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56749086-C496-4C81-8834-B89151BD0663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56749086-C496-4C81-8834-B89151BD0663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F58EACA-B1CB-489A-9B1B-5EB301F4EC87}
+	EndGlobalSection
+EndGlobal
